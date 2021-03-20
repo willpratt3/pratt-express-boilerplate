@@ -1,0 +1,17 @@
+mongodb+srv://wpratt3:GAmongoDB2021@cluster0.73v1s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+node db/connection.js
+
+npm init -y x
+npm i express
+git init
+npm i ejs
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mercedlogger": "^1.0.1",
+    "mongoose": "^5.12.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
